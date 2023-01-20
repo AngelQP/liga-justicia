@@ -6,3 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Linterna Verde
+* Robin
+* Flash
