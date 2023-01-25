@@ -7,4 +7,3 @@
 * Linterna Verde
 * Robin
 * Flash
-* Volcan Negro
