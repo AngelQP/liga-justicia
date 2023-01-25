@@ -6,5 +6,6 @@
 4. Doomsday
 5. Loki
 6. Deadshot
+7. Harley Quinn
 
 # notas: 
